@@ -1,4 +1,4 @@
-# Word Frequency Histogram
+# Word Frequency Histogram Assessment
 
 This is a React.js application that fetches the contents of a text file, calculates the frequency of occurrence of each word, and plots a histogram of the 20 most occurring words.
 
@@ -68,6 +68,3 @@ npm start
 
 - To change the source of the text file, you can modify the URL in the `fetchWordFrequency function` of the `WordFrequencyHistogram` component.
 
-# Contributing
-
-Contributions are welcome! If you find any issues or want to add new features, feel free to open a pull request.
